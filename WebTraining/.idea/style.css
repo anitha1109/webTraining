@@ -1,0 +1,29 @@
+body{background-image:url("https://bossip.files.wordpress.com/2018/01/sky.jpg");
+background-repeat:no-repeat;
+    background-size:cover;
+    background-height:500px;
+    background-position:relative;
+margin:50px;}
+h1{font-family: Ayuthaya;
+border-style:double;
+text-align:center;
+}
+h2{font-family:"Hannotate SC";
+Text-align:center;
+font-size:20px;
+border-bottom-style:dashed; weidth:40px;}
+h3{font-family: "Comic Sans MS";
+}
+p{font-family:"Trebuchet MS";
+}
+p.special{text-align:center;}
+
+/*adding and setting img later*/
+img{position: relative;
+
+}
+div.horizontal{display:inline-block;}
+div.border{border-bottom-style:dotted;
+color:indianred;}
+p.shopping{text-align:right;}
+img.floatright{float:right;}

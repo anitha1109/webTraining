@@ -1,0 +1,48 @@
+body  html {
+    height: 100%;
+}
+body {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.bottomAnim {
+    border: none;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #2851A6 url("http://i.stack.imgur.com/spmUM.gif") left repeat-x;
+    background-size: auto 65%;
+    background-position: bottom;
+    z-index: -1; display:none;
+}
+body{text_align:center;
+margin:30px;}
+
+body{background-image:url("https://bossip.files.wordpress.com/2018/01/sky.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-height:500px;
+    background-position:relative;
+    margin:50px;}
+
+h2.special{font-family:"Avenir Next";
+    color:black;
+    text-align:center;
+    border-style:dashed;
+    background-color:lightcyan;
+}
+h1{border:dotted;
+background-color:lightcyan;
+text-align:center;}
+p.different{font-family:"Apple Braille";display: block}
+#quoteDisplay {
+    white-space: pre-line;
+    background-color: lightskyblue;
+    width: 300px;
+    border: 15px solid lightpink;
+    padding: 50px;
+    margin: 20px;
+}
