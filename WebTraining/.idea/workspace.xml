@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a794fed-2514-4716-b113-d8d98d963374" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3a794fed-2514-4716-b113-d8d98d963374" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +23,7 @@
     <select />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -79,7 +77,7 @@
       <workItem from="1565953843614" duration="17305000" />
       <workItem from="1566214722016" duration="4601000" />
       <workItem from="1566282928499" duration="6192000" />
-      <workItem from="1566807702823" duration="17434000" />
+      <workItem from="1566807702823" duration="17600000" />
     </task>
     <servers />
   </component>
